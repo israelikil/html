@@ -1,0 +1,28 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+  
+}
+
+body {
+	font-family: Arial;
+	text-align:center
+}
+
+.red {
+	color: red;
+}
+
+.bigfont{
+	font-size:32px;
+}
+
+
+#specialstyle {
+	width:30%;
+	border: 2px solid red;
+	background-color: yellow;
+	
+}
